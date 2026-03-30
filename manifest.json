@@ -1,0 +1,21 @@
+{
+  "name": "J×X JUMP",
+  "short_name": "J×X JUMP",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "background_color": "#F7D9D4",
+  "theme_color": "#F7D9D4",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "JiaoXiaoJUMP.icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "JiaoXiaoJUMP.apple-touch-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
